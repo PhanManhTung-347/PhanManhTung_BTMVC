@@ -1,0 +1,20 @@
+﻿@model PMT_Baitap_MVCTaiLop.Models.KhoaHoc
+<div class="container mt-4">
+    <div class="card shadow col-md-6 mx-auto">
+        <div class="card-header bg-primary text-white"><h4>Thông tin Khóa học</h4></div>
+        <div class="card-body">
+            <form asp-action="@(ViewContext.RouteData.Values["action"])" method="post">
+                @if (ViewContext.RouteData.Values["action"].ToString() == "Edit")
+                {
+                    <input type="hidden" asp-for="KhoaHocId" />
+                }
+                <div class="mb-3">
+                    <label asp-for="tenKH" class="form-label">Tên Khóa Học</label>
+                    <input asp-for="tenKH" class="form-control" required />
+                </div>
+                <button type="submit" class="btn btn-primary">Lưu</button>
+                <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+            </form>
+        </div>
+    </div>
+</div>

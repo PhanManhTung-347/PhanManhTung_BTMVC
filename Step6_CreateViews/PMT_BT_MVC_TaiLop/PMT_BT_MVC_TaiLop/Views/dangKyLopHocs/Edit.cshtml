@@ -1,0 +1,35 @@
+﻿@model PMT_Baitap_MVCTaiLop.Models.DangKyLopHoc
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-warning">
+                    <h4 class="mb-0">Sửa Đăng Ký Lớp Học</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Edit" method="post">
+                        <input type="hidden" asp-for="DangKyLopHocId" />
+                        @* Giữ nguyên ngày đăng ký cũ hoặc cập nhật mới tùy ý bạn *@
+                        <input type="hidden" asp-for="ngaydk" />
+
+                        <div class="mb-3">
+                            <label class="form-label">Sinh Viên</label>
+                            <select asp-for="SinhVienId" class="form-select" asp-items="ViewBag.SinhVienId"></select>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Lớp Học Phần</label>
+                            <select asp-for="LopHocPhanId" class="form-select" asp-items="ViewBag.LopHocPhanId"></select>
+                        </div>
+
+                        <div class="d-flex justify-content-between">
+                            <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+                            <button type="submit" class="btn btn-warning">Cập nhật đăng ký</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

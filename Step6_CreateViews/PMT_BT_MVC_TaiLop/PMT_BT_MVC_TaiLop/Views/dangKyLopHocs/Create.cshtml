@@ -1,0 +1,19 @@
+﻿@model PMT_Baitap_MVCTaiLop.Models.DangKyLopHoc
+<div class="container mt-4">
+    <div class="card shadow col-md-6 mx-auto">
+        <div class="card-header bg-success text-white"><h4>Đăng ký môn học cho Sinh viên</h4></div>
+        <div class="card-body">
+            <form asp-action="Create" method="post">
+                <div class="mb-3">
+                    <label>Chọn Sinh Viên</label>
+                    <select asp-for="SinhVienId" class="form-control" asp-items="ViewBag.SinhVienId"></select>
+                </div>
+                <div class="mb-3">
+                    <label>Chọn Lớp Học Phần</label>
+                    <select asp-for="LopHocPhanId" class="form-control" asp-items="ViewBag.LopHocPhanId"></select>
+                </div>
+                <button type="submit" class="btn btn-success w-100">Xác nhận đăng ký</button>
+            </form>
+        </div>
+    </div>
+</div>
