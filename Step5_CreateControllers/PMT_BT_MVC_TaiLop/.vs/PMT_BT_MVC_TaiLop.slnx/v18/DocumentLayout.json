@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\BT_TenLop\\PMT_BT_MVC_TaiLop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D2DEA8-0E86-1B6E-D0CD-BC04C522CAD9}|PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop.csproj|d:\\c#\\bt_tenlop\\pmt_bt_mvc_tailop\\pmt_bt_mvc_tailop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4D2DEA8-0E86-1B6E-D0CD-BC04C522CAD9}|PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop.csproj|solutionrelative:pmt_bt_mvc_tailop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D2DEA8-0E86-1B6E-D0CD-BC04C522CAD9}|PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop.csproj|d:\\c#\\bt_tenlop\\pmt_bt_mvc_tailop\\pmt_bt_mvc_tailop\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D2DEA8-0E86-1B6E-D0CD-BC04C522CAD9}|PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop.csproj|solutionrelative:pmt_bt_mvc_tailop\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D2DEA8-0E86-1B6E-D0CD-BC04C522CAD9}|PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop.csproj|d:\\c#\\bt_tenlop\\pmt_bt_mvc_tailop\\pmt_bt_mvc_tailop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D2DEA8-0E86-1B6E-D0CD-BC04C522CAD9}|PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop.csproj|solutionrelative:pmt_bt_mvc_tailop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\BT_TenLop\\PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop\\Program.cs",
+              "RelativeDocumentMoniker": "PMT_BT_MVC_TaiLop\\Program.cs",
+              "ToolTip": "D:\\C#\\BT_TenLop\\PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop\\Program.cs",
+              "RelativeToolTip": "PMT_BT_MVC_TaiLop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:38:16.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\BT_TenLop\\PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop\\appsettings.json",
+              "RelativeDocumentMoniker": "PMT_BT_MVC_TaiLop\\appsettings.json",
+              "ToolTip": "D:\\C#\\BT_TenLop\\PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop\\appsettings.json",
+              "RelativeToolTip": "PMT_BT_MVC_TaiLop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T05:38:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\C#\\BT_TenLop\\PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PMT_BT_MVC_TaiLop\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\C#\\BT_TenLop\\PMT_BT_MVC_TaiLop\\PMT_BT_MVC_TaiLop\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "PMT_BT_MVC_TaiLop\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:37:54.26Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 666,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
