@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.RootNamespace = PMT_BT_MVC_TaiLop
+build_property.RootNamespace = PMT_BT_MVC_TaiLop
+build_property.ProjectDir = D:\C#\BT_TenLop\PMT_BT_MVC_TaiLop\PMT_BT_MVC_TaiLop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\C#\BT_TenLop\PMT_BT_MVC_TaiLop\PMT_BT_MVC_TaiLop
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/dangKyLopHocs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFuZ0t5TG9wSG9jc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/dangKyLopHocs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFuZ0t5TG9wSG9jc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/dangKyLopHocs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFuZ0t5TG9wSG9jc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/giaoViens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ2lhb1ZpZW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/giaoViens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ2lhb1ZpZW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/giaoViens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ2lhb1ZpZW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/khoaHocs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nca2hvYUhvY3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/khoaHocs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nca2hvYUhvY3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/khoaHocs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nca2hvYUhvY3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/lopHocPhans/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbG9wSG9jUGhhbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/lopHocPhans/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbG9wSG9jUGhhbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/lopHocPhans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbG9wSG9jUGhhbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/sinhViens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2luaFZpZW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/sinhViens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2luaFZpZW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/sinhViens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2luaFZpZW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/BT_TenLop/PMT_BT_MVC_TaiLop/PMT_BT_MVC_TaiLop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1x2currmpp

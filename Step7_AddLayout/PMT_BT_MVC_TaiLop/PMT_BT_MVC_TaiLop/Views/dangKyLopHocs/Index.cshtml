@@ -1,0 +1,28 @@
+﻿@model IEnumerable<PMT_Baitap_MVCTaiLop.Models.DangKyLopHoc>
+<div class="container mt-4">
+    <h2 class="text-primary">Danh sách Đăng ký lớp học</h2>
+    <p><a asp-action="Create" class="btn btn-success">Đăng ký mới</a></p>
+    <table class="table table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Sinh Viên</th>
+                <th>Lớp Học Phần</th>
+                <th>Ngày Đăng Ký</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.SinhVien?.tenSinhVien</td>
+                    <td>@item.LopHocPhan?.tenLop</td>
+                    <td>@item.ngaydk.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <a asp-action="Delete" asp-route-id="@item.DangKyLopHocId" class="btn btn-danger btn-sm">Hủy đăng ký</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

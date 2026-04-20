@@ -1,0 +1,29 @@
+﻿@model IEnumerable<PMT_Baitap_MVCTaiLop.Models.LopHocPhan>
+<div class="container mt-4">
+    <h2 class="text-primary">Quản lý Lớp Học Phần</h2>
+    <p><a asp-action="Create" class="btn btn-success">Mở lớp mới</a></p>
+    <table class="table table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Tên Lớp</th>
+                <th>Giáo Viên</th>
+                <th>Khóa Học</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.tenLop</td>
+                    <td>@item.GiaoVien?.tenGV</td>
+                    <td>@item.KhoaHoc?.tenKH</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.LopHocPhanId" class="btn btn-warning btn-sm">Sửa</a>
+                        <a asp-action="Delete" asp-route-id="@item.LopHocPhanId" class="btn btn-danger btn-sm" onclick="return confirm('Xóa lớp?')">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
