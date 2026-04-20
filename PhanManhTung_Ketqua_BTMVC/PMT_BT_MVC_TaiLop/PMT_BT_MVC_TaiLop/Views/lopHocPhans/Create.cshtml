@@ -1,0 +1,22 @@
+﻿@model PMT_Baitap_MVCTaiLop.Models.LopHocPhan
+<div class="container mt-4">
+    <div class="card shadow col-md-6 mx-auto">
+        <div class="card-body">
+            <form asp-action="Create" method="post">
+                <div class="mb-3">
+                    <label>Tên Lớp Học Phần</label>
+                    <input asp-for="tenLop" class="form-control" required />
+                </div>
+                <div class="mb-3">
+                    <label>Giáo Viên Giảng Dạy</label>
+                    <select asp-for="GiaoVienId" class="form-control" asp-items="ViewBag.GiaoVienId"></select>
+                </div>
+                <div class="mb-3">
+                    <label>Thuộc Khóa Học</label>
+                    <select asp-for="KhoaHocId" class="form-control" asp-items="ViewBag.KhoaHocId"></select>
+                </div>
+                <button type="submit" class="btn btn-success">Lưu</button>
+            </form>
+        </div>
+    </div>
+</div>
